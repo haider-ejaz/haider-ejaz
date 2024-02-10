@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **tailwindcss, react, next, typescript, node, php, mongodb, mysql, aws**
 
-- 📫 How to reach me **haider.ejaz4@gmail.com**
+- 📫 Reach me at **haider.ejaz4@gmail.com**
 
-- 📄 Know about my experiences [https://haiderejaz.com/about/](https://haiderejaz.com/about/)
+- 📄 Know about my experiences at [https://haiderejaz.com/about/](https://haiderejaz.com/about/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
