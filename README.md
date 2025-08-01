@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://haiderejaz.com/portfolio/](https://haiderejaz.com/portfolio/)
 
-- 📝 I regularly write articles on [https://haiderejaz.com/blog/](https://haiderejaz.com/blog/)
+- 📝 I usually write articles on [https://haiderejaz.com/blog/](https://haiderejaz.com/blog/)
 
 - 💬 Ask me about **tailwindcss, react, next, typescript, node, php, mongodb, mysql, aws**
 
